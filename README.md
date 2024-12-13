@@ -1,7 +1,3 @@
-Here's your updated project description formatted as a **README** file:
-
----
-
 # Sentiment Analysis of Product Reviews
 
 This project is part of the Artificial Intelligence and Data Mining course. The goal is to classify product reviews as either positive or negative using sentiment analysis techniques.
